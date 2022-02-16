@@ -1,0 +1,17 @@
+﻿title: start
+---
+<<set $random to dice(2)>>
+<<if $random == 1>>
+    <<jump random1>>
+<<elseif $random == 2>>
+    <<jump random2>>
+<<endif>>
+===
+title: random1
+---
+Random: random 1
+===
+title: random2
+---
+Random: random 2
+===

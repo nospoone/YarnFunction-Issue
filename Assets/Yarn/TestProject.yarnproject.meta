@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e7f502ea9464387408d83b76c99ce7d4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 053561912b1654d80a424bb0696a74ae, type: 3}
+  sourceScripts:
+  - {fileID: 6391573757903218779, guid: 01184e36714c90a44a3cc1abf4272543, type: 3}
+  compileErrors: []
+  serializedDeclarations:
+  - name: $random
+    typeName: Number
+    defaultValueBool: 0
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: TestScript.yarn, node start, line 1
+    isImplicit: 1
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: 01184e36714c90a44a3cc1abf4272543, type: 3}
+  defaultLanguage: en
+  languagesToSourceAssets: []
+  useAddressableAssets: 0
+  searchAllAssembliesForActions: 1
+  assembliesToSearch: []
